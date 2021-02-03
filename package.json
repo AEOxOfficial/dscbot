@@ -1,0 +1,22 @@
+{
+  "name": "tornado-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "get-youtube-id": "^1.0.1",
+    "ms": "^2.1.1",
+    "queue": "^6.0.0",
+    "simple-youtube-api": "^5.1.1",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
